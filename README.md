@@ -2,8 +2,6 @@
 
 **Llumina** és una aplicació web progressiva (PWA) interactiva de llista de tasques (To-Do List) desenvolupada com a part de la pràctica de DAW (Treball de Recerca TR3 - RA2). Integra un assistent conversacional intel·ligent basat en IA que analitza les tasques de l'usuari en temps real i l'ajuda a organitzar la seva jornada d'estudi de forma eficient.
 
-Aquest projecte s'ha construït seguint la metodologia **Specification-Driven Development (SDD)**, on l'estudiant actua com a *Tech Lead* guiant i validant el codi generat per agents d'IA (Antigravity).
-
 ---
 
 ## 🛠️ Stack Tecnològic
@@ -89,5 +87,3 @@ Aquest programari s'ha creat mitjançant **Specification-Driven Development**. A
 
 ---
 
-**Projecte Llumina** • Cicle Formatiu DAW • Curs 2025/2026  
-*Desenvolupat per Bryan Ruzafa amb suport d'IA (Antigravity).*
